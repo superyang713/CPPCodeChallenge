@@ -39,3 +39,6 @@ program
 
 # ignore project template
 project_template/
+
+# ignore makefile
+Makefile
